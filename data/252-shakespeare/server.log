@@ -1,0 +1,17 @@
+2022-02-15 10:44:14 INFO     Server started up
+2022-02-15 10:44:18 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2022-02-15 10:44:18 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2022-02-15 10:44:22 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2022-02-15 10:44:23 WARNING  404 error: /api/v1/jsonstore/model/trims/Gt1Qai7aytG may not be downloading everything right
+2022-02-15 10:44:23 WARNING  404 error: /favicon.ico may not be downloading everything right
+2022-02-15 10:44:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetHighlightReel we are handling internally
+2022-02-15 10:44:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLabels we are handling internally
+2022-02-15 10:44:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetMattertags we are handling internally
+2022-02-15 10:44:23 WARNING  404 error: /images/360_placement_pin_mask.png may not be downloading everything right
+2022-02-15 10:44:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetMeasurements we are handling internally
+2022-02-15 10:44:23 WARNING  404 error: /models/c36b2b1f2cad44b38beb2e71185383fc/assets/pan/low/~/eddc0a474d854485bc3b5b8befb3c4fc_skybox1.jpg?t=2-b9765a1e44aed87dc206026103e6de72cfb18a74-1645023084-1&imgopt=1 may not be downloading everything right
+2022-02-15 10:44:23 WARNING  404 error: /models/c36b2b1f2cad44b38beb2e71185383fc/assets/pan/low/~/51f5c258ab3a44019254fb89314cc671_skybox1.jpg?t=2-b9765a1e44aed87dc206026103e6de72cfb18a74-1645023084-1&imgopt=1 may not be downloading everything right
+2022-02-15 10:44:23 WARNING  404 error: /models/c36b2b1f2cad44b38beb2e71185383fc/assets/pan/low/~/c3198cb548fa49ceb878d3fef5374b60_skybox1.jpg?t=2-b9765a1e44aed87dc206026103e6de72cfb18a74-1645023084-1&imgopt=1 may not be downloading everything right
+2022-02-15 10:44:23 WARNING  404 error: /models/c36b2b1f2cad44b38beb2e71185383fc/assets/pan/low/~/124da0db954f44dbab6d49b95aa4ed42_skybox1.jpg?t=2-b9765a1e44aed87dc206026103e6de72cfb18a74-1645023084-1&imgopt=1 may not be downloading everything right
+2022-02-15 10:44:23 WARNING  404 error: /models/c36b2b1f2cad44b38beb2e71185383fc/assets/pan/low/~/3584c3d06d34463d95e85c2bb8d210fa_skybox1.jpg?t=2-b9765a1e44aed87dc206026103e6de72cfb18a74-1645023084-1&imgopt=1 may not be downloading everything right
+2022-02-15 10:44:23 WARNING  404 error: /models/c36b2b1f2cad44b38beb2e71185383fc/assets/pan/low/~/138fc55e9d0e4a1f880c77dd172ee988_skybox1.jpg?t=2-b9765a1e44aed87dc206026103e6de72cfb18a74-1645023084-1&imgopt=1 may not be downloading everything right
